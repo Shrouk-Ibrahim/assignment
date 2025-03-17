@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:assigment/bmi/colors.dart';
 
+import '../colors.dart';
+
 class CustomButton extends StatelessWidget {
   const CustomButton({super.key, required this.btnTitle , this.onClick});
   final String btnTitle;
