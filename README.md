@@ -4,6 +4,7 @@ A simple and elegant BMI (Body Mass Index) calculator built with Flutter. This a
 
 ## Features
 
+- **Animated Splash Screen**: A visually appealing splash screen with a Lottie animation and a fade transition to the main screen.
 - **Gender Selection**: Choose between male and female.
 - **Height Adjustment**: Use a slider to adjust height in centimeters.
 - **Weight and Age Control**: Increment or decrement weight and age using buttons.
